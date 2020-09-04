@@ -14,7 +14,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Bug Bounties 101](https://whitton.io/articles/bug-bounties-101-getting-started/)
 - [The life of a bug bounty hunter](http://www.alphr.com/features/378577/q-a-the-life-of-a-bug-bounty-hunter)
 - [Awsome list of bugbounty cheatsheets](https://github.com/EdOverflow/bugbounty-cheatsheet)
-- [Getting Started - Bug Bounty Hunter Methodology](https://blog.bugcrowd.com/getting-started-bug-bounty-hunter-methodology)
+- [Getting Started - Bug Bounty Hunter Methodology](https://www.bugcrowd.com/blog/getting-started-bug-bounty-hunter-methodology)
 
 ### Write Ups & Authors
 - [sakurity.com/blog](http://sakurity.com/blog)  -  by [Egor Homakov](https://twitter.com/homakov)
@@ -40,6 +40,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 
 
 ### Platforms
+- [YesWeHack](https://yeswehack.com/)
 - [intigriti](https://intigriti.com/)
 - [HackerOne](https://hackerone.com/)
 - [Bugcrowd](https://bugcrowd.com/)
@@ -52,6 +53,13 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Synack](https://www.synack.com/)
 - [HackenProof](https://hackenproof.com/)
 - [Detectify](https://cs.detectify.com/)
+- [Bugbountyjp](https://bugbounty.jp/)
+- [Safehats](https://safehats.com/)
+- [BugbountyHQ](https://www.bugbountyhq.com/)
+- [Hackerhive](https://hackerhive.io/)
+- [Hacktrophy](https://hacktrophy.com/)
+- [AntiHACK](https://www.antihack.me/)
+- [CESPPA](https://www.cesppa.com/)
 
 ### Available Programs
 - [123Contact Form](http://www.123contactform.com/security-acknowledgements.htm)
@@ -145,6 +153,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Circle](https://cobalt.io/circle)
 - [CircleCI](mailto:security@circleci.com)
 - [Cisco](http://www.cisco.com/web/about/security/psirt/security_vulnerability_policy.html#roosfassv)
+- [ClickUp](https://clickup.com/bug-bounty)
 - [Clojars](mailto:contact@clojars.org)
 - [CloudFlare](https://hackerone.com/cloudflare)
 - [Cobalt](https://cobalt.io/cobalt)
@@ -284,6 +293,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Kenna](https://bugcrowd.com/riskio)
 - [Keybase](https://hackerone.com/keybase)
 - [Khan Academy](https://hackerone.com/khanacademy)
+- [SKB Kontur](https://kontur.ru/.well-known/security.txt)
 - [Kraken](mailto:bugbounty@kraken.com)
 - [Kinepolis](https://go.intigriti.com/kinepolis)
 - [Kuna](https://hackenproof.com/kuna/kuna-crypto-exchange)
@@ -291,7 +301,6 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [LastPass](mailto:security@lastpass.com)
 - [LaunchKey](mailto:security@launchkey.com)
 - [Lean Testing](https://hackerone.com/leantesting)
-- [leetfiles](https://hackerone.com/leetfiles)
 - [Librato](mailto:security@librato.com)
 - [LibSass](https://hackerone.com/libsass)
 - [Liferay](mailto:security@liferay.com)
@@ -339,7 +348,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Neverdie Smart Contract](https://hackenproof.com/neverdie/neverdie-smart-contract)
 - [Neverdie Web](https://hackenproof.com/neverdie/neverdie-web)
 - [Nexmo](https://cobalt.io/nexmo)
-- [Nexuzhealth(https://go.intigriti.com/nexushealth)
+- [Nexuzhealth](https://go.intigriti.com/nexushealth)
 - [Nexuzhealth Web PACS](https://go.intigriti.com/nexuzhealthwebpacs)
 - [Nginx](https://hackerone.com/ibb-nginx)
 - [Nitrous](mailto:security@nitrous.io)
@@ -370,6 +379,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [Paychoice](mailto:security@paychoice.com.au)
 - [PayMill](mailto:security@paymill.com)
 - [PayPal](mailto:https://www.paypal.com/bugbounty/register)
+- [Paytm](https://bugbounty.paytm.com)
 - [Perl](https://hackerone.com/ibb-perl)
 - [Phabricator](https://hackerone.com/phabricator)
 - [PHP](https://bugs.php.net/report.php)
@@ -391,6 +401,7 @@ A comprehensive curated list of Bug Bounty Programs and write-ups from the Bug B
 - [QIWI](https://hackerone.com/qiwi)
 - [Quadriga CX](https://cobalt.io/quadriga-cx)
 - [QuickBT](https://cobalt.io/quickbt)
+- [Quora](https://hackerone.com/quora)
 - [Rackspace](mailto:security@rackspace.com)
 - [Rdbhost_service](https://cobalt.io/rdbhost-service)
 - [Red Hat](mailto:site-security@redhat.com)
